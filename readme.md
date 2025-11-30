@@ -1,8 +1,8 @@
 # How to run above code 
-reverse no-
+reverse no-<br>
 g++ "file name" -o reverse <br>
 ./reverse
 
-palindrome no-
+palindrome no-<br>
 g++ "file name" -o palindrome<br>
 ./palindrome
