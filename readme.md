@@ -1,5 +1,5 @@
 # How to run above code <br>
-syntax- <br>g++ "filename.cpp" -o outputname<br>
+syntax- <br>g++ "filename.cpp" -o outputname<br>  
 ./outputname
 
 reverse no-<br>
