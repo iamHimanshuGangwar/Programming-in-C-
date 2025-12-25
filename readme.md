@@ -13,3 +13,4 @@ g++ "palindrome.cpp" -o palindrome<br>
 armstrong no-<br>
 g++ "armstrong.cpp" -o armstrong<br>
 ./armstrong
+ 
