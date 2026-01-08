@@ -12,7 +12,6 @@ int main() {
         rev = rev * 10 + digit;
         num /= 10;
     }
-
     if (original == rev) {
         cout << "Palindrome";
     } else {
